@@ -1,19 +1,17 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "CGsh"
+date:   2016-12-30
+excerpt: "A command-line shell for Combinatorial Graph Applications"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+- cgsh 
+- shell
+- graph
+comments: false
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Euler's Dilemma](/assets/img/konigsberg.jpeg)
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
