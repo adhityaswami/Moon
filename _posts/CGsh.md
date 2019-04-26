@@ -4,14 +4,12 @@ title:  "CGsh"
 date:   2016-12-30
 excerpt: "A Command-line Shell for Combinatorial Graph Applications"
 project: true
-tag:
-- cgsh 
-- shell
-- graph
+tags: [cgsh, shell, graph]
+feature: /assets/image/konigsberg.jpeg
 comments: false
 ---
 
-![Euler's Dilemma](/assets/img/konigsberg.jpeg)
+<!-- ![Euler's Dilemma](/assets/img/konigsberg.jpeg) -->
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
