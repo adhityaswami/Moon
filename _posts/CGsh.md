@@ -2,7 +2,7 @@
 layout: post
 title:  "CGsh"
 date:   2016-12-30
-excerpt: "A command-line shell for Combinatorial Graph Applications"
+excerpt: "A Command-line Shell for Combinatorial Graph Applications"
 project: true
 tag:
 - cgsh 
