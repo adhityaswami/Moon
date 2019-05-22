@@ -38,7 +38,7 @@ Our pipeline consists of the following sequential steps:
 
 ![Fusion](/assets/img/deepfuse_fusion_net.png)
 
-<center><b>DeepFuse++:</b> Our Proposed Architecture.</center>
+<center><b>Fusion:</b> Our Proposed Fusion Network.</center>
 
 Except the optical flow network (which is pretrained), we utilize a combination of L2 loss, Gradient Loss, and Multi-Scale SSIM loss to train the networks. Additionally, we also captured and carefully curated a set of 582 high resolution sequences to train our network. We plan to make this dataset publicly available soon.
 
