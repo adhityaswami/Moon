@@ -1,6 +1,6 @@
 # Site
 title:              'Adhitya Swaminathan'
-bio:                'I dream about Neural Networks.'
+bio:                'Aspiring AI Researcher'
 description:        "Adhitya's official site and blog."
 reading_time:       false
 words_per_minute:   200
@@ -39,7 +39,7 @@ sass:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           adityaswaminathan5
+# facebook:           adityaswaminathan5
 github-url:         adhityaswami
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
