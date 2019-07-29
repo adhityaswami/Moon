@@ -12,7 +12,7 @@ comments: false
 
 <center><b>DeepFuse++:</b> Our Proposed Architecture.</center>
 
-*This paper has been accepted to the 2019 IEEE Conference on Computational Photography, Tokyo. Due to certain restrictions, we are unable to provide an open access version of it at the moment.*
+*This paper has been accepted to the 2019 IEEE Conference on Computational Photography, Tokyo. You can find the paper [at this link](http://val.serc.iisc.ernet.in/ICCP19/files/EF_iccp19.pdf)*
 
 I worked on this project during the summer of 2018, under the guidance of Prof. Venkatesh Babu at Indian Institute of Science, Bangalore. Our aim was to develop a deep Exposure Fusion strategy that worked on an arbitrary number of images, with an emphasis on speed and accuracy.
 
@@ -44,7 +44,7 @@ Except the optical flow network (which is pretrained), we utilize a combination 
 
 ## The Results
 
-Quantitatively, our network performs at par or better than other algorithms in literature in terms of both PSNR and SSIM.
+Quantitatively, our network outperforms HDR fusion methods by upto 14% in terms of PSNR. 
 
 ![Quantitative](/assets/img/quantitativeresult.png)
 
@@ -52,7 +52,7 @@ Qualitatively, our results display a notable absence of unwanted ghosting artifa
 
 ![Qualitative](/assets/img/deepfuse_results.png)
 
-In terms of speed, our network only slightly lags behind Wu et. al., while providing better results.
+In terms of speed, our network only slightly lags behind Wu et. al., while providing better results. However, when compared to HDR fusion methods(as opposed to deghosting methods such as Wu et. al.), our method achieves a speedup of upto x54.
 
 ![Speed](/assets/img/speedresult.png)
 
